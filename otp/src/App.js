@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import { MyApp } from './Component/MOLECULE/otp';
+import { OtpForm } from './Component/MOLECULE/Axios OTP';
 
 function App() {
   return (
-    <MyApp/>
+    <OtpForm/>
   );
 }
 
